@@ -56,9 +56,6 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
   alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <img src="png2.png" width="180" align="center">
-
 <a href="https://git.io/typing-svg" align="center">
 <img align="center"
 src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=1000&color=818955&center=false&vCenter=true&width=600&height=70&lines=6+/+/+/;Oh,+the+things+we+invent+when+we+are+scared;and+want+to+be+rescued;Your+jeep.;Your+teeth.;The+coffee+that+you+bought+me.;The+sandwich+cut+in+half+on+the+plate;I+woke+up+and+ate+ice+cream+in+the+dark;Hunched+over+on+the+wooden+chair+in+the+kitchen;Listening+to+the+rain;I+borrowed+your+shoes+and+didnt+put+them+away;You+were+crying+and+eating+rice;The+surface+of+the+water+was+still+and+bright;Your+feet+were+burning;so+I+put+my+hands+on+them,;but+my+hands;Were+burning+too;\+End.+6/?;"
