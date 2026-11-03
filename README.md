@@ -1,5 +1,4 @@
- <p align="left">
-  <img src="pngtop.png" width="180" align="left">
+
 
 <div align="center" ><details>
 <summary> 〃 </summary>
@@ -74,14 +73,10 @@ src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=100
 </a>
 </a>
  <p align="center">
-  <img src="png3.png" width="180" align="center">
   <a href="https://git.io/typing-svg" align="center">
    
 <img align="center"
 src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=20&pause=1000&color=786245&center=true&vCenter=true&width=600&height=70&lines=I+Had+a+Dream+About+You+-+Richard+Siken."
   alt="Typing SVG" />
 
-<p align="center">
-<img width="900" height="auto" alt="Untitled" src="omgbru.png" />
-</p>
 
