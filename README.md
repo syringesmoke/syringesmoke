@@ -2,15 +2,15 @@
   <img src="png 1.png" width="180" align="right">
   <div align="center" ><details>
 <summary> 〃 </summary>
-$${\color{#E1C693} \space youre \space so \space incredibly \space loved \space .}$$
+$${\color{#64615A} \space youre \space so \space incredibly \space loved \space .}$$
 </details> 
 <div align="center" ><details>
 <summary> 〃 </summary>
-$${\color{#E1C693} \space youre \space so \space incredibly \space loved \space .}$$
+$${\color{#64615A} \space youre \space so \space incredibly \space loved \space .}$$
 </details> 
 <div align="center" ><details>
 <summary> 〃 </summary>
-$${\color{#E1C693} \space youre \space so \space incredibly \space loved \space .}$$
+$${\color{#64615A} \space youre \space so \space incredibly \space loved \space .}$$
 </details> 
 
 
