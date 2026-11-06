@@ -9,7 +9,7 @@ TW . sensitive topics. view at your own risk.
   <img src="png 1.png" width="180" align="right">
     
   <div align="center" ><details>
-<summary>  </summary>
+<summary> ╳ </summary>
 $${\color{#64615A} \space INTRODUCTION: \space "Ive \space always \space felt \space alone \space my \space whole \space life,}$$
 $${\color{#64615A} \space for \space as \space long \space as \space I \space can \space remember. \space I \space \space dont \space know}$$
 $${\color{#584f42} \space if \space I \space like \space it \space . \space . \space . \space or \space if \space Im \space just \space used}$$
