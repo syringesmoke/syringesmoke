@@ -24,14 +24,10 @@ $${\color{#a72222} "Oh \space I \space wish \space I \space couldve \space \spac
 $${\color{#a72222} but \space unfortunately, \space my \space . \space . \space . \space situation \space makes \space that \space impossible."}$$
 $${\color{#862e1f} "To \space whoever \space is \space reading \space this: \space I \space hope \space my \space dead \space body \space will \space haunt \space you \space forever.}$$
 $${\color{#862e1f} Have \space fun \space scraping \space my \space brains \space off \space the \space walls."}$$
-  
 $${\color{#28241c} "Fuck \space you."}$$
-
-<img width="450" height="556" alt="resized" src="" />
-
 </details> 
 
-
+<img width="50" height="50" alt="resized" align="left" src="1.png" /><img width="50" height="50" alt="resized" align="left" src="2.png" /><img width="50" height="50" alt="resized" align="left" src="3.png" />
 
 <img align="center"
 src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=1000&color=862e1f&center=true&vCenter=true&width=600&height=70&lines=Ill+see+you+in+hell,+doctor."
