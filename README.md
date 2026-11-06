@@ -7,10 +7,10 @@ TW . sensitive topics. view at your own risk.
 <summary> INTRODUCTION </summary>
 $${\color{#64615A} \space "Ive \space always \space felt \space alone \space my \space whole \space life,}$$
 $${\color{#64615A} \space for \space as \space long \space as \space I \space can \space remember. \space I \space \space dont \space know}$$
-$${\color{#64615A} \space if \space I \space like \space it \space . \space . \space . \space or \space if \space Im \space just \space used}$$
-$${\color{#64615A} \space to \space it, \space but \space I \space do \space know \space this: \space Being \space lonely \space does}$$
-$${\color{#64615A} \space things \space to \space you, \space and \space feeling \space shit \space and \space bitter \space and \space angry}$$
-$${\color{#64615A} \space all \space the \space time \space just \space . \space . \space . \space eats \space away \space at \space you."}$$
+$${\color{#584f42} \space if \space I \space like \space it \space . \space . \space . \space or \space if \space Im \space just \space used}$$
+$${\color{#584f42} \space to \space it, \space but \space I \space do \space know \space this: \space Being \space lonely \space does}$$
+$${\color{#4a4236} \space things \space to \space you, \space and \space feeling \space shit \space and \space bitter \space and \space angry}$$
+$${\color{#4a4236} \space all \space the \space time \space just \space . \space . \space . \space eats \space away \space at \space you."}$$
 </details> 
 <div align="center" ><details>
 <summary> Username: ? Password: ? </summary>
