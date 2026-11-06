@@ -5,12 +5,12 @@ TW . sensitive topics. view at your own risk.
     
   <div align="center" ><details>
 <summary> INTRODUCTION </summary>
-$${\color{#64615A} \space Ive \space always \space felt \space alone \space my \space whole \space life,}$$
+$${\color{#64615A} \space "Ive \space always \space felt \space alone \space my \space whole \space life,}$$
 $${\color{#64615A} \space for \space as \space long \space as \space I \space can \space remember. \space I \space \space dont \space know}$$
 $${\color{#64615A} \space if \space I \space like \space it \space . \space . \space . \space or \space if \space Im \space just \space used}$$
 $${\color{#64615A} \space to \space it, \space but \space I \space do \space know \space this: \space Being \space lonely \space does}$$
 $${\color{#64615A} \space things \space to \space you, \space and \space feeling \space shit \space and \space bitter \space and \space angry}$$
-$${\color{#64615A} \space all \space the \space time \space just \space . \space . \space . \space eats \space away \space at \space you.}$$
+$${\color{#64615A} \space all \space the \space time \space just \space . \space . \space . \space eats \space away \space at \space you."}$$
 </details> 
 <div align="center" ><details>
 <summary> Username: ? Password: ? </summary>
@@ -18,7 +18,8 @@ $${\color{#64615A} \space marriage \space in \space april \space - \space excels
 </details> 
 <div align="center" ><details>
 <summary> "Dear diary." </summary>
-$${\color{#64615A} The \space pills \space showed \space me \space the \space truth \space today, \space they \space always \space did. \space They \space opened \space my \space eyes, \space they \space \space gave \space me \space wisdom, \space and \space I \space acted \space upon \space it. }$$
+$${\color{#64615A} "The \space pills \space showed \space me \space the \space truth \space today, \space they \space always \space did.}$$
+$${\color{#64615A} They \space opened \space my \space eyes, \space they \space \space gave \space me \space wisdom, \space and \space I \space acted \space upon \space it." }$$
 </details> 
 
 
