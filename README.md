@@ -5,7 +5,7 @@
 
 <div align="center" ><details>
 <summary> 〃 </summary>
-$${\color{#64615A} \space youre \space so \space incredibly \space loved \space .}$$
+$${\color{#64615A} \space marriage \space in \space april \space - \space excelsior}$$
 </details> 
 <div align="center" ><details>
 <summary> 〃 </summary>
