@@ -2,6 +2,15 @@
 > <p align="left">
   <img src="png 1.png" width="180" align="right">
     
+
+<div align="center" ><details>
+<summary> 〃 </summary>
+$${\color{#64615A} \space youre \space so \space incredibly \space loved \space .}$$
+</details> 
+<div align="center" ><details>
+<summary> 〃 </summary>
+$${\color{#64615A} \space youre \space so \space incredibly \space loved \space .}$$
+</details> 
   <div align="center" ><details>
 <summary> 〃 </summary>
 $${\color{#64615A} \space INTRODUCTION \space Ive \space always \space felt \space alone \space my \space whole \space life,
@@ -10,14 +19,6 @@ $${\color{#64615A} \space INTRODUCTION \space Ive \space always \space felt \spa
     \space to \space it, \space but \space I \space do \space know \space this: \space Being \space lonely \space does
     \space things \space to \space you, \space and \space feeling \space shit \space and \space bitter \space and \space angry
     \space all \space the \space time \space just \space . \space . \space . \space eats \space away \space at \space you.}$$
-</details> 
-<div align="center" ><details>
-<summary> 〃 </summary>
-$${\color{#64615A} \space youre \space so \space incredibly \space loved \space .}$$
-</details> 
-<div align="center" ><details>
-<summary> 〃 </summary>
-$${\color{#64615A} \space youre \space so \space incredibly \space loved \space .}$$
 </details> 
 
 
