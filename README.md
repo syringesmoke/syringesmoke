@@ -1,8 +1,6 @@
-<p align="left">
-  <img src="png 1.png" width="180" align="right">
-  
 > [!CAUTION]
-> TW . triggering topics.
+> <p align="left">
+  <img src="png 1.png" width="180" align="right">
     
   <div align="center" ><details>
 <summary> 〃 </summary>
