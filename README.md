@@ -18,8 +18,14 @@ $${\color{#64615A} \space marriage \space in \space april \space - \space excels
 </details> 
 <div align="center" ><details>
 <summary> "Dear diary." </summary>
-$${\color{#64615A} "The \space pills \space showed \space me \space the \space truth \space today, \space they \space always \space did.}$$
-$${\color{#64615A} They \space opened \space my \space eyes, \space they \space \space gave \space me \space wisdom, \space and \space I \space acted \space upon \space it." }$$
+$${\color{#DA3633} "The \space pills \space showed \space me \space the \space truth \space today, \space they \space always \space did.}$$
+$${\color{#DA3633} They \space opened \space my \space eyes, \space they \space \space gave \space me \space wisdom, \space and \space I \space acted \space upon \space it." }$$
+$${\color{#a72222} "Oh \space I \space wish \space I \space couldve \space \space taken \space everybody \space with \space me,}$$
+$${\color{#a72222} but \space unfortunately, \space my \space . \space . \space . \space situation \space makes \space that \space impossible."}$$
+$${\color{#862e1f} "To \space whoever \space is \space reading \space this: \space I \space hope \space my \space dead \space body \space will \space haunt \space you \space forever.}$$
+$${\color{#862e1f} Have \space fun \space scraping \space my \space brains \space off \space the \space walls."}$$
+  
+$${\color{#28241c} "Fuck \space you."}$$
 </details> 
 
 
