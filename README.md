@@ -15,7 +15,8 @@ $${\color{#4a4236} \space all \space the \space time \space just \space . \space
 <div align="center" ><details>
 <summary> Username: ? Password: ? </summary>
 $${\color{#64615A} \space marriage \space in \space april \space - \space excelsior}$$
-$${\color{#64615A} | \space ??? \space / \space May \space / \space 2007 \space † \space MDNI }$$
+$${\color{#64615A} | \space ??? \space / \space May \space / \space 2007 \space † }$$
+$${\color{#64615A} \space MDNI }$$
 </details> 
 <div align="center" ><details>
 <summary> "Dear diary." </summary>
