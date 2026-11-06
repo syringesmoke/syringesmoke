@@ -45,7 +45,7 @@ $${\color{#433b2c} . \space}$$
 <img width="50" height="50" alt="resized" align="center" src="1.png" /><img width="50" height="50" alt="resized" align="center" src="2.png" /><img width="50" height="50" alt="resized" align="left" src="3.png" />
 
 <img align="center"
-src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=10000&color=862e1f&center=true&vCenter=true&width=300&height=70&lines=Ill+see+you+in+hell,+doctor."
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=10000&color=862e1f&center=false&vCenter=false&width=300&height=70&lines=Ill+see+you+in+hell,+doctor."
   alt="Typing SVG" />
 
 
