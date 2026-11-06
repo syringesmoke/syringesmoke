@@ -25,7 +25,7 @@ $${\color{#a72222} but \space unfortunately, \space my \space . \space . \space 
 $${\color{#862e1f} "To \space whoever \space is \space reading \space this: \space I \space hope \space my \space dead \space body \space will \space haunt \space you \space forever.}$$
 $${\color{#862e1f} Have \space fun \space scraping \space my \space brains \space off \space the \space walls."}$$
 $${\color{#28241c} "\space. \space . \space . \space Fuck \space you."}$$
-$${\color{#433b2c} .\space}$$
+$${\color{#433b2c} . \space}$$
 $${\color{#433b2c} .\space}$$
 $${\color{#433b2c} .\space}$$
 </details> 
