@@ -35,6 +35,13 @@ $${\color{#433b2c} . \space}$$
 $${\color{#433b2c} . \space}$$
 
  <img width="300" height="150" alt="resized" align="center" src="11111111.gif" />
+
+<a href="https://git.io/typing-svg" align="center">
+<img align="center"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=27&pause=1000&color=818955&center=true&vCenter=true&width=600&height=70&lines=3+/+/+/;Theres+nowhere+to+go,+I+thought.;Theres+nowhere+to+go;You+were+sitting+in+a+bathtub+at+the+hospital;and+you+were+crying;You+said+it+hurt;I+mean+the+buildings+that+were+not+the+hospital;I+shouldnt+have+mentioned+the+hospital;I+dont+think+I+can+take+this+much+longer;\+End.+3/?;"
+  alt="Typing SVG" />
+</a>
+ 
 </details> 
 
 <img width="50" height="50" alt="resized" align="center" src="1.png" /><img width="50" height="50" alt="resized" align="center" src="2.png" /><img width="50" height="50" alt="resized" align="center" src="3.png" />
