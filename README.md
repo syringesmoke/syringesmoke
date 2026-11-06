@@ -4,7 +4,12 @@
     
   <div align="center" ><details>
 <summary> 〃 </summary>
-$${\color{#64615A} \space INTRODUCTION \space Ive \space always \space felt \space alone \space my \space whole \space life, \space for \space as \space long \space as \space I \space can \space remember. \space I \space \space dont \space know \space if \space I \space like \space it \space . \space . \space . \space or \space if \space Im \space just \space used \space to \space it, \space but \space I \space do \space know \space this: \space Being \space lonely \space does \space things \space to \space you, \space and \space feeling \space shit \space and \space bitter \space and \space angry \space all \space the \space time \space just \space . \space . \space . \space eats \space away \space at \space you.}$$
+$${\color{#64615A} \space INTRODUCTION \space Ive \space always \space felt \space alone \space my \space whole \space life,
+    \space for \space as \space long \space as \space I \space can \space remember. \space I \space \space dont \space know
+    \space if \space I \space like \space it \space . \space . \space . \space or \space if \space Im \space just \space used
+    \space to \space it, \space but \space I \space do \space know \space this: \space Being \space lonely \space does
+    \space things \space to \space you, \space and \space feeling \space shit \space and \space bitter \space and \space angry
+    \space all \space the \space time \space just \space . \space . \space . \space eats \space away \space at \space you.}$$
 </details> 
 <div align="center" ><details>
 <summary> 〃 </summary>
