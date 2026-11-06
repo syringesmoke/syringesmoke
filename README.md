@@ -19,6 +19,8 @@ $${\color{#64615A} \space marriage \space in \space april \space - \space excels
 <div align="center" ><details>
 <summary> "Dear diary." </summary>
 $${\color{#64615A} The \space pills \space showed \space me \space the \space truth \space today, \space they \space always \space did. \space They \space opened \space my \space eyes, \space they \space \space gave \space me \space wisdom, \space and \space I \space acted \space upon \space it. }$$
+  $${\color{#64615A} The \space pills \space showed \space me \space the \space truth \space today, \space they \space always \space did. \space They \space opened \space my \space eyes, \space they \space \space gave \space me \space wisdom, \space and \space I \space acted \space upon \space it. }$$
+  $${\color{#64615A} The \space pills \space showed \space me \space the \space truth \space today, \space they \space always \space did. \space They \space opened \space my \space eyes, \space they \space \space gave \space me \space wisdom, \space and \space I \space acted \space upon \space it. }$$
 </details> 
 
 
