@@ -26,7 +26,7 @@ $${\color{#862e1f} "To \space whoever \space is \space reading \space this: \spa
 $${\color{#862e1f} Have \space fun \space scraping \space my \space brains \space off \space the \space walls."}$$
 $${\color{#28241c} "Fuck \space you."}$$
   
-<img width="50" height="50" alt="resized" align="center" src="11111111.gif" />
+<img width="300" height="150" alt="resized" align="center" src="11111111.gif" />
 
 $${\color{#433b2c} . \space}$$
 $${\color{#433b2c} . \space}$$
