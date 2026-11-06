@@ -26,9 +26,6 @@ $${\color{#a72222} "Oh \space I \space wish \space I \space couldve \space \spac
 $${\color{#a72222} but \space unfortunately, \space my \space . \space . \space . \space situation \space makes \space that \space impossible."}$$
 $${\color{#862e1f} "To \space whoever \space is \space reading \space this: \space I \space hope \space my \space dead \space body \space will \space haunt \space you \space forever.}$$
 $${\color{#862e1f} Have \space fun \space scraping \space my \space brains \space off \space the \space walls."}$$
-$${\color{#433b2c} . \space}$$
-$${\color{#433b2c} . \space}$$
-$${\color{#433b2c} . \space}$$
 $${\color{#28241c} "Fuck \space you."}$$
 $${\color{#433b2c} . \space}$$
 $${\color{#433b2c} . \space}$$
